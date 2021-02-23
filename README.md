@@ -2,6 +2,8 @@
 
 blog post 1
 
+![image info](./Retro.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
