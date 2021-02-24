@@ -2,7 +2,7 @@
 
 blog post 1
 
-![image info](./Retro.png)
+![image info](./images/Retro.png)
 
 ## Getting Started
 
